@@ -1,0 +1,4 @@
+data,hora_in�cio,hora_fim,processo,ip,hostname,conex�o,erros,tempo_execucao,resultado
+2023-06-28,2023-06-28 11:22:52.139991,11:22:57,my_operation,XXX.XXX.X.X,DESKTOP-NAME,True,,0:00:05.012563,
+2023-06-28,2023-06-28 11:22:52.139991,11:22:57,my_operation,XXX.XXX.X.X,DESKTOP-NAME,True,Error message,0:00:05.012563,
+2023-06-28,2023-06-28 11:23:18.117235,11:23:23,my_operation,XXX.XXX.X.X,DESKTOP-NAME,True,Error message,0:00:05.005322,

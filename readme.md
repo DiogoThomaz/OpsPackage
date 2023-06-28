@@ -16,7 +16,7 @@ Despite being under development, this code is already functional and can be used
 ## Usage
 1. Clone the repository and copy the `operations` folder to your project directory.
 ```bash
-git clone 
+git clone https://github.com/DiogoThomaz/OpsPackage.git
 ```
 
 2. Import the `ops` decorator from the `operations` module:
